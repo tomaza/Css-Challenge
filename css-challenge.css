@@ -1,0 +1,49 @@
+#progressBars{
+  background-color: #f1eaea;
+}
+
+#greenBar {
+  width: 50%;
+  height: 15px;
+  background-color: green;
+  border-radius: 20px;
+  border:1px solid #ccc;
+}
+#redBar {
+  width: 50%;
+  height: 15px;
+  background-color: red;
+  border-radius: 20px;
+  border:1px solid #ccc;
+}
+
+#whiteBar {
+  width: 50%;
+  height: 15px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 1px 1px
+  border:1px solid #ccc;
+}
+
+#blueBar {
+  width: 50%;
+  height: 15px;
+  background-color: blue;
+  border-radius: 20px;
+  border:1px solid #ccc;
+}
+#yellowBar {
+  width: 50%;
+  height: 15px;
+  background-color: yellow;
+  border-radius: 20px;
+  border:1px solid #ccc;
+}
+#bgBar{
+  
+  height: 15px;
+  background-color: #ccc;
+  border-radius: 20px;
+  margin: 15px;
+}
